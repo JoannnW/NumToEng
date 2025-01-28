@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("\nThree Digit Numbers: ");
         numToEng threeDig1 = new numToEng(111);
-        numToEng threeDig2 = new numToEng(023);
+        //numToEng threeDig2 = new numToEng(011);
         numToEng threeDig3 = new numToEng(704);
         numToEng threeDig4 = new numToEng(890);
         numToEng threeDig5 = new numToEng(439);
