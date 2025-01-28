@@ -9,6 +9,7 @@ public class Main {
         numToEng twoDig2 = new numToEng(02);
         numToEng twoDig3 = new numToEng(57);
         numToEng twoDig4 = new numToEng(85);
+        numToEng twoDig5 = new numToEng(18);
 
         System.out.println("\nThree Digit Numbers: ");
         numToEng threeDig1 = new numToEng(111);
